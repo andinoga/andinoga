@@ -1,0 +1,160 @@
+/*selectors */
+
+a {
+  color: #11999E;
+  font-family: 'Open Sans', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Roboto', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #EAF6F6;
+  border-width: 7px;
+  margin-top: 3.125em;
+  margin-bottom: 3.125em;
+  width: 5%;
+}
+
+p {
+  margin-top: 10px;
+  line-height: 2;
+}
+
+/* classes */
+
+.BUTTON {
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+  color: #FFFFFF;
+  font-family: Verdana;
+  font-size: 22px;
+  font-weight: 100;
+  padding: 12px;
+  background-color: #66BFBF;
+  text-shadow: 0 1px 21px #66BFBF;
+  border: solid #FFFFFF 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.BUTTON:hover {
+  background: #EAF6F6;
+  border: solid #0EF3F3 0;
+  -webkit-border-radius: 17px;
+  -moz-border-radius: 17px;
+  border-radius: 17px;
+  text-decoration: none;
+}
+
+ .contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+ .copyright {
+   color: #EAF6F6;
+   font-size: 0.75REM;
+   padding: 20px 0 20px 0;
+ }
+
+ .intro {
+   width: 30%;
+   margin: auto;
+ }
+
+ .top-container {
+   background-color: #E4F9F5;
+   position: relative;
+   padding-top: 100px;
+ }
+
+ .middle-container {
+   margin: 200px 10;
+   padding-top: 50px;
+ }
+
+ .bottom-container {
+   background-color: #66BFBF;
+   padding: 50px 0 20px;
+ }
+
+
+/* images */
+ .top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+  .coding {
+    width: 35%;
+    float:left;
+    margin-right: 30px;
+  }
+
+  .drums {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+  }
+
+ .bottom-cloud {
+   position: absolute;
+   left: 350px;
+   bottom: 300px;
+ }
+
+ .profile-img {
+   width: 150px;
+   height: 150px;
+ }
+
+/* extra */
+
+.pro {
+  text-decoration: underline;
+
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
