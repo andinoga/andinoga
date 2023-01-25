@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @andinoga
 - 👀 I’m interested in learning how to code and SQL. 
-- 🌱 I’m currently learning css, bootstrap.
+- 🌱 I’m currently completing Free Code Camp lessons Responsive Web Design to attain my certification.
+- I aspire to be a freelance developer focus in Shopify 
 - 💞️ I’m looking to collaborate on any projects that have html, css.
 - 📫 How to reach me andinoga@gmail.com
 
